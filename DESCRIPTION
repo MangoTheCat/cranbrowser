@@ -1,0 +1,11 @@
+Package: cranbrowser
+Title: Browse CRAN Package Source Code on GitHub
+Version: 1.0.0
+Author: Gabor Csardi
+Maintainer: Gabor Csardi <csardi.gabor@gmail.com>
+Description: Browse CRAN Package Source Code on GitHub
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/MangoTheCat/cranbrowser
+BugReports: https://github.com/MangoTheCat/cranbrowser/issues
+RoxygenNote: 5.0.1
