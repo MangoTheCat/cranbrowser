@@ -9,4 +9,7 @@ LazyData: true
 URL: https://github.com/MangoTheCat/cranbrowser
 BugReports: https://github.com/MangoTheCat/cranbrowser/issues
 RoxygenNote: 5.0.1
+Imports:
+    httr,
+    jsonlite
 Encoding: UTF-8
